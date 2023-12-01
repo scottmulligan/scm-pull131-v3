@@ -341,15 +341,15 @@
         "name": "Athletes",
         "description": "Sample component featuring Athletes from connected Content Hub ONE instance.",
         "status": "published",
-        "versionCount": 2,
+        "versionCount": 1,
         "stagedVersionCount": 1,
         "datasourceIds": [
           "Athlete"
         ],
         "createdAt": "2023-11-15T17:27:04.26+00:00",
-        "stagedAt": "2023-11-15T21:20:04.739+00:00",
-        "publishedAt": "2023-11-15T21:20:04.739+00:00",
-        "modifiedAt": "2023-11-15T21:20:04.739+00:00",
+        "stagedAt": "2023-11-16T18:10:05.908+00:00",
+        "publishedAt": "2023-11-16T18:10:05.908+00:00",
+        "modifiedAt": "2023-11-16T18:10:05.908+00:00",
         "modifiedBy": {
           "id": "63ed31bdc5dac322725263de",
           "name": "Alexander Doroshenko",
